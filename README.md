@@ -5,12 +5,14 @@
     1- RTClib by Adafruit
     2- NTPClient by Fabrice Weinberg
     
-  Connectins:
+  Connections:
   
     +         3.3
     D         D2(GPIO4)
     C         D1(GPIO5)
     -         GND
     
+**Notic:**<br>
+In line [39](https://github.com/mthri/nodemcu-setting-time/blob/master/SettingTheTime.ino#L39) you must set date manually.
    
   
